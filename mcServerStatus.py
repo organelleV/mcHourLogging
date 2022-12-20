@@ -1,6 +1,6 @@
 from mcrcon import MCRcon
 serverName = "uwu.mine.nu"
-serverRconPassword = "NHS5014pythoncut"
+serverRconPassword = "verysecure"
 
 def getNumPlayers():
     try:
